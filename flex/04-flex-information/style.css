@@ -14,6 +14,11 @@ img {
 
 .flex {
   display: flex;
+
+}
+
+.text {
+  display: flex;
 }
 
 /* do not edit this footer */
