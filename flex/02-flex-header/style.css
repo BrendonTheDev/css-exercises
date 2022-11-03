@@ -35,7 +35,3 @@ a {
   text-decoration: none;
 }
 
-.left-links {
-  display: flex;
-  justify-content: start;
-}
