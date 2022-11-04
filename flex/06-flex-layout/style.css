@@ -30,3 +30,11 @@ input {
   display: flex;
   flex-direction: column;
 }
+
+.left-links {
+  list-style: none;
+}
+
+.right-links {
+  list-style: none;
+}
