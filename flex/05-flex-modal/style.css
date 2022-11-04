@@ -48,6 +48,10 @@ body {
 .header {
   font-weight: 700;
   font-size: large;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
 }
 
 
