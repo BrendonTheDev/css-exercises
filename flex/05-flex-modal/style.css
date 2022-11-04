@@ -25,6 +25,7 @@ body {
 
 .container{
   display: flex;
+  flex-direction: column;
 }
 
 .icon {
@@ -68,4 +69,8 @@ button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
+}
+
+.buttoncontainer {
+  display: flex;
 }
