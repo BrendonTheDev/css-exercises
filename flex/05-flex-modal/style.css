@@ -41,6 +41,12 @@ body {
   justify-content: center;
 }
 
+.header {
+  font-weight: 700;
+  font-size: large;
+}
+
+
 .close-button {
   background: #eee;
   border-radius: 50%;
@@ -52,6 +58,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  
 }
 
 button {
