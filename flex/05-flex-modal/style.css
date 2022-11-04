@@ -26,10 +26,7 @@ body {
   
 }
 
-.container{
-  display: flex;
-  flex-direction: column;
-}
+
 
 .icon {
   color: royalblue;
@@ -87,6 +84,3 @@ button.cancel {
   color: royalblue;
 }
 
-.buttoncontainer {
-  display: flex;
-}
