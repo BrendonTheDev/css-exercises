@@ -16,7 +16,7 @@ body {
   justify-content: space-between;
 }
 
-.left {
+.left, .right {
   display: flex;
 }
 
