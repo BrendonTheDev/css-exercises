@@ -5,7 +5,8 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
-
+  display: flex;
+  flex-direction: column;
 }
 
 .header {
@@ -23,6 +24,7 @@ body {
   display: flex;
   justify-content: space-between;
   padding: 10px;
+  background-color: lightgrey;
 }
 
 .left-links, .right-links {
