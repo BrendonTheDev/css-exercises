@@ -36,6 +36,15 @@ body {
 
 }
 
+.container {
+  display: block;
+}
+
+.text {
+  display: block;
+  margin-bottom: 16px;
+}
+
 .icon {
   color: royalblue;
   font-size: 26px;
