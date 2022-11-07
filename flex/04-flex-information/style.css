@@ -16,7 +16,7 @@ img {
   margin-bottom: 32px;
 }
 
-.main-contain {
+.container {
  display: flex;
   justify-content: center;
 }
