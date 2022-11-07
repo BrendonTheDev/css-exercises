@@ -5,7 +5,23 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+
 }
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.content {
+
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+
 
 img {
   width: 600px;
@@ -34,3 +50,4 @@ a {
   text-decoration: none;
   color: black;
 }
+
