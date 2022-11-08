@@ -16,6 +16,13 @@ body {
 
 }
 
+.container {
+  display: flex;
+ 
+  
+}
+
+
 .footer {
   height: 72px;
   background: #eee;
@@ -25,10 +32,13 @@ body {
 .sidebar {
   width: 300px;
   background: royalblue;
+  
+  flex-shrink: 0;
 }
 
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  display: flex;
 }
