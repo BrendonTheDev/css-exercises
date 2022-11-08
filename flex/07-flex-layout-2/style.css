@@ -41,6 +41,7 @@ body {
   background: royalblue;
   
   flex-shrink: 0;
+  padding: 16px;
 }
 
 .card {
